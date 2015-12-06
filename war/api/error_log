@@ -1,0 +1,8 @@
+[24-Jun-2015 23:49:59 Etc/GMT] PHP Notice:  Undefined index: username in /home/zozotfol/public_html/html/mist/light/api/tweet.php on line 13
+[24-Jun-2015 23:49:59 Etc/GMT] PHP Notice:  Undefined index: count in /home/zozotfol/public_html/html/mist/light/api/tweet.php on line 14
+[24-Jun-2015 23:49:59 Etc/GMT] PHP Notice:  Undefined index: exclude_replies in /home/zozotfol/public_html/html/mist/light/api/tweet.php on line 15
+[24-Jun-2015 23:49:59 Etc/GMT] PHP Notice:  Undefined index: list in /home/zozotfol/public_html/html/mist/light/api/tweet.php on line 16
+[25-Jun-2015 06:15:30 Etc/GMT] PHP Notice:  Undefined index: username in /home/zozotfol/public_html/html/mist/light/api/tweet.php on line 13
+[25-Jun-2015 06:15:30 Etc/GMT] PHP Notice:  Undefined index: count in /home/zozotfol/public_html/html/mist/light/api/tweet.php on line 14
+[25-Jun-2015 06:15:30 Etc/GMT] PHP Notice:  Undefined index: exclude_replies in /home/zozotfol/public_html/html/mist/light/api/tweet.php on line 15
+[25-Jun-2015 06:15:30 Etc/GMT] PHP Notice:  Undefined index: list in /home/zozotfol/public_html/html/mist/light/api/tweet.php on line 16
